@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hari-850
 - 👀 I’m interested in learning web development 
-- 🌱 I’m currently learning python and basics of web develping
+- 🌱 I’m currently learning python and basics of web developing
 - 💞️ I’m looking to collaborate on more web development tools
 
 <!---
